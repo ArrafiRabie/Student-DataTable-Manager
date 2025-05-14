@@ -1,0 +1,7 @@
+C:\Data_Table\bin\Debug\Data_Table.exe.config
+C:\Data_Table\bin\Debug\Data_Table.exe
+C:\Data_Table\bin\Debug\Data_Table.pdb
+C:\Data_Table\obj\Debug\Data_Table.csproj.AssemblyReference.cache
+C:\Data_Table\obj\Debug\Data_Table.csproj.CoreCompileInputs.cache
+C:\Data_Table\obj\Debug\Data_Table.exe
+C:\Data_Table\obj\Debug\Data_Table.pdb
